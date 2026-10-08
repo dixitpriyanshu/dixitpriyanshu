@@ -5,8 +5,26 @@ i build mobile apps with react native & expo, and spend too much time on the las
 ```
 now        →  shipping react native at work, poking at expo sdk internals on the side
 into       →  reanimated, webgpu, native modules, offline-first apps
-stack      →  typescript · react native · expo · supabase · node
+ask me     →  expo router, zustand, mmkv, building apps from zero
 ```
+
+#### what i work with
+
+**mobile** — react native · expo · flutter · native android
+
+<img src="https://skillicons.dev/icons?i=react,ts,flutter,dart,kotlin,java,androidstudio&perline=10" />
+
+**web** — next.js · react · tailwind · three.js
+
+<img src="https://skillicons.dev/icons?i=nextjs,js,html,css,tailwind,redux,mui,threejs&perline=10" />
+
+**backend & data** — node · bun · python · graphql · postgres · supabase
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,python,django,flask,graphql,postgres,mysql,mongodb,sqlite,supabase,firebase,appwrite&perline=14" />
+
+**ship & tools** — aws · vercel · git · figma
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,git,github,figma,postman,notion&perline=10" />
 
 #### things i've made
 
